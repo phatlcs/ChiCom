@@ -1,4 +1,4 @@
-# 📰 AI PR Agent
+# 📰 ChiCom AI PR Agent
 
 An AI-powered PR automation tool for SMEs that streamlines the press release lifecycle—from content drafting to media distribution—using natural language interfaces and machine learning.
 
@@ -73,6 +73,6 @@ Core technologies:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-org/ai-pr-agent.git
-cd ai-pr-agent
+git clone https://github.com/phatlcs/ChiCom.git
+cd ChiCom
 TODO
